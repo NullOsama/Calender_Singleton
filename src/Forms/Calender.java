@@ -25,5 +25,4 @@ public class Calender
         sc.setVisible(true);
         return calender;
     }
-
 }

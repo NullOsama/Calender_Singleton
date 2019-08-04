@@ -53,18 +53,12 @@ public class MainForm extends JFrame
             }
         });
 
-
-
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout(FlowLayout.RIGHT));
         panel.add(b1);
         panel.add(b2);
 
         this.add(panel);
-
-
-
-
     }
 
     /**
