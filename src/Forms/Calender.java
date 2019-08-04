@@ -13,7 +13,7 @@ public class Calender
 
     private Calender()
     {
-        this.sc = new SwingCalendar();
+        sc = new SwingCalendar();
     }
 
     private static Calender calender = new Calender();
